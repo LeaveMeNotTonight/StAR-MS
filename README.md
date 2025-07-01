@@ -1,0 +1,1 @@
+Structure-to-activity-relationship metabolomics (StAR-MS) is a framework aiming at elucidating the inherent SAR information embedded within non-targeted metabolomics data guided by fragment (substructure)-activity knowledge.
